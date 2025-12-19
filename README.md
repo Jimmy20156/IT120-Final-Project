@@ -1,3 +1,8 @@
+
+My Profile
+https://github.com/Jimmy20156
+
+
 🌾 Farm Equipment Detector – Project Overview
 
 The Farm Equipment Detector is a mobile application developed using Flutter that uses machine learning (TensorFlow Lite) to identify different types of farm equipment from images. Users can capture a photo or select one from the gallery, and the system will automatically classify the equipment.
